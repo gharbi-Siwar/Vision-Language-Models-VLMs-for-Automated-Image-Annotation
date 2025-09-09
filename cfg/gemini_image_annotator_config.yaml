@@ -2,7 +2,7 @@ image_folder: "inputs"
  
 
 vlm_model_path: "models/gemini-2.5-flash"  
-google_api_key: "AIzaSyDFaCY80mWYuhrFKxF4W25QMIt7HUA9D6Y"    
+google_api_key: "**************************"    
 
 box_color: [0, 255, 0]            
 prompt_template: |
