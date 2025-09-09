@@ -1,0 +1,3602 @@
+[
+  {
+    "image_file": "person_00010.jpg",
+    "gemini_annotated": "gemini\\person_00010.jpg",
+    "smoll_annotated": "smoll\\person_00010.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.28125,
+          0.4041666666666667,
+          0.496875,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 22,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "young adult female, smooth skin, feminine features"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.49765625,
+          0.6458333333333334,
+          0.76328125,
+          0.9958333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": 42,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Mature facial features, visible headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.59921875,
+          0.6444444444444445,
+          0.7640625,
+          0.9958333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 35,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "feminine features, adult facial structure, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00015.jpg",
+    "gemini_annotated": "gemini\\person_00015.jpg",
+    "smoll_annotated": "smoll\\person_00015.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.51875,
+          0.08611111111111111,
+          0.61875,
+          0.5611111111111111
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 30,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Youthful facial features, smooth skin, sleeveless dress, sandals"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00032.jpg",
+    "gemini_annotated": "gemini\\person_00032.jpg",
+    "smoll_annotated": "smoll\\person_00032.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.3796875,
+          0.2,
+          0.515625,
+          0.8555555555555555
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 24,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Young adult female, body shape, hair, casual clothing."
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": "false",
+            "cap": "false",
+            "headscarf": "false",
+            "mask": "false",
+            "hood": "false",
+            "occlusion": "false",
+            "facing_camera": "true"
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.7609375,
+          0.46111111111111114,
+          0.9421875,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, mature facial features, male presentation"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.534375,
+          0.03888888888888889,
+          0.63359375,
+          0.525
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "mature facial features, no deep wrinkles, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00037.jpg",
+    "gemini_annotated": "gemini\\person_00037.jpg",
+    "smoll_annotated": "smoll\\person_00037.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.378125,
+          0.2722222222222222,
+          0.5375,
+          0.9694444444444444
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "13 to 18",
+          "exact_age": 17,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "youthful features, feminine build"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "13 to 18",
+          "exact_age": "15",
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.76015625,
+          0.4722222222222222,
+          0.92578125,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, facial wrinkles, male features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.4265625,
+          0.1,
+          0.58671875,
+          0.6833333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 32,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult facial features, skin tone, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00050.jpg",
+    "gemini_annotated": "gemini\\person_00050.jpg",
+    "smoll_annotated": "smoll\\person_00050.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.403125,
+          0.10138888888888889,
+          0.578125,
+          0.8416666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 26,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "youthful facial features, feminine attire"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.759375,
+          0.5680555555555555,
+          0.93984375,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 60,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, male facial features, skin texture"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00084.jpg",
+    "gemini_annotated": "gemini\\person_00084.jpg",
+    "smoll_annotated": "smoll\\person_00084.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.434375,
+          0.6319444444444444,
+          0.57421875,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "0 to 5",
+          "exact_age": 3,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Toddler features, young face, sleeveless shirt"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "0 to 5",
+          "exact_age": "0",
+          "attributes": {
+            "glasses": "false",
+            "cap": "false",
+            "headscarf": "false",
+            "mask": "false",
+            "hood": "false",
+            "occlusion": "false",
+            "facing_camera": "true"
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.76171875,
+          0.4930555555555556,
+          0.9546875,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "graying hair, facial lines, male features, short-sleeved shirt"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00155.jpg",
+    "gemini_annotated": "gemini\\person_00155.jpg",
+    "smoll_annotated": "smoll\\person_00155.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.5140625,
+          0.2361111111111111,
+          0.73046875,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Receding hairline, salt-and-pepper beard, facial features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.75859375,
+          0.5152777777777777,
+          0.91875,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Grey hair, mature facial features, short-sleeved shirt"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00160.jpg",
+    "gemini_annotated": "gemini\\person_00160.jpg",
+    "smoll_annotated": "smoll\\person_00160.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.496875,
+          0.41388888888888886,
+          0.80078125,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 58,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Balding, grey beard, skin texture"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.7625,
+          0.5847222222222223,
+          0.95625,
+          0.9847222222222223
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 60,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "receding grey hair, visible arm wrinkles, male features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00180.jpg",
+    "gemini_annotated": "gemini\\person_00180.jpg",
+    "smoll_annotated": "smoll\\person_00180.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.56171875,
+          0.3902777777777778,
+          0.83359375,
+          0.9944444444444445
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "male pattern baldness, visible side profile, short sleeve polo"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.76171875,
+          0.5055555555555555,
+          0.92890625,
+          0.9611111111111111
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "grey hair, facial lines, short-sleeved shirt"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00244.jpg",
+    "gemini_annotated": "gemini\\person_00244.jpg",
+    "smoll_annotated": "smoll\\person_00244.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.48515625,
+          0.2013888888888889,
+          0.72890625,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "18 to 28",
+          "exact_age": 20,
+          "attributes": {
+            "glasses": false,
+            "cap": true,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Young adult male, T-shirt, shorts, build"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "18 to 28",
+          "exact_age": "23",
+          "attributes": {
+            "glasses": false,
+            "cap": true,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.28671875,
+          0.33055555555555555,
+          0.490625,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Mature facial features, female presenting"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.75859375,
+          0.5013888888888889,
+          0.94453125,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "grey hair, facial lines, short-sleeved shirt"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 3,
+        "bbox": [
+          0.4375,
+          0.17083333333333334,
+          0.53671875,
+          0.6333333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "5 to 12",
+          "exact_age": 11,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Childish facial features, short hair, pre-teen build"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "13 to 18",
+          "exact_age": "15",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00254.jpg",
+    "gemini_annotated": "gemini\\person_00254.jpg",
+    "smoll_annotated": "smoll\\person_00254.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.75703125,
+          0.5236111111111111,
+          0.95703125,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 44,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, male facial features, mature appearance"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00260.jpg",
+    "gemini_annotated": "gemini\\person_00260.jpg",
+    "smoll_annotated": "smoll\\person_00260.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.75390625,
+          0.5166666666666667,
+          0.95546875,
+          0.9958333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, mustache, moderate facial lines"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00398.jpg",
+    "gemini_annotated": "gemini\\person_00398.jpg",
+    "smoll_annotated": "smoll\\person_00398.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.35078125,
+          0.15833333333333333,
+          0.50859375,
+          0.9111111111111111
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Receding hairline, facial features consistent with middle age."
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.76328125,
+          0.4722222222222222,
+          0.99453125,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "male features, thinning hair, facial wrinkles"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00429.jpg",
+    "gemini_annotated": "gemini\\person_00429.jpg",
+    "smoll_annotated": "smoll\\person_00429.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.75234375,
+          0.47638888888888886,
+          0.93828125,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, facial wrinkles"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.66875,
+          0.25277777777777777,
+          0.9234375,
+          0.9430555555555555
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 62,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Grey hair, facial wrinkles, older appearance"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00485.jpg",
+    "gemini_annotated": "gemini\\person_00485.jpg",
+    "smoll_annotated": "smoll\\person_00485.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.559375,
+          0.25,
+          0.73984375,
+          0.9652777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "68+",
+          "exact_age": 75,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "gray hair, wrinkles, masculine features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "68+",
+          "exact_age": 68,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.75546875,
+          0.4888888888888889,
+          0.9109375,
+          0.9138888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "male features, grey hair, facial wrinkles"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 38,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.37265625,
+          0.7555555555555555,
+          0.6609375,
+          0.9958333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 60,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Greying hair, skin texture, short hair, side profile"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "68+",
+          "exact_age": 68,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 3,
+        "bbox": [
+          0.4546875,
+          0.7527777777777778,
+          0.66015625,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 63,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Grey, thinning hair and visible skin texture"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "68+",
+          "exact_age": 68,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 4,
+        "bbox": [
+          0.759375,
+          0.8138888888888889,
+          0.915625,
+          0.9944444444444445
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Balding with graying hair"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "68+",
+          "exact_age": 68,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00553.jpg",
+    "gemini_annotated": "gemini\\person_00553.jpg",
+    "smoll_annotated": "smoll\\person_00553.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.525,
+          0.475,
+          0.7765625,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "baldness, wrinkles, masculine build"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.7578125,
+          0.48333333333333334,
+          0.9078125,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "graying hair, facial lines, short-sleeved polo"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.4015625,
+          0.19027777777777777,
+          0.53671875,
+          0.5208333333333334
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "0 to 5",
+          "exact_age": 4,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "young facial features, short hair, t-shirt and shorts"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "0 to 5",
+          "exact_age": "0",
+          "attributes": {
+            "glasses": "false",
+            "cap": "false",
+            "headscarf": "false",
+            "mask": "false",
+            "hood": "false",
+            "occlusion": "false",
+            "facing_camera": "true"
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 3,
+        "bbox": [
+          0.4421875,
+          0.19166666666666668,
+          0.53515625,
+          0.5208333333333334
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "0 to 5",
+          "exact_age": 4,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Young facial features, child's body"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "0 to 5",
+          "exact_age": "0",
+          "attributes": {
+            "glasses": "false",
+            "cap": "false",
+            "headscarf": "false",
+            "mask": "false",
+            "hood": "false",
+            "occlusion": "false",
+            "facing_camera": "true"
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 4,
+        "bbox": [
+          0.9375,
+          0.175,
+          0.99921875,
+          0.5625
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 45,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Male physique, short-sleeved polo shirt, adult build"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00566.jpg",
+    "gemini_annotated": "gemini\\person_00566.jpg",
+    "smoll_annotated": "smoll\\person_00566.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.53046875,
+          0.45555555555555555,
+          0.7625,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 60,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Baldness, male physical features, skin texture."
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.240625,
+          0.5416666666666666,
+          0.51328125,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 25,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Youthful facial features, long hair, smooth skin"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.7578125,
+          0.47638888888888886,
+          0.9109375,
+          0.9888888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "graying hair, mature facial features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00589.jpg",
+    "gemini_annotated": "gemini\\person_00589.jpg",
+    "smoll_annotated": "smoll\\person_00589.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.51484375,
+          0.4736111111111111,
+          0.7671875,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Male pattern baldness, male physique, short-sleeved polo"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.75859375,
+          0.4888888888888889,
+          0.91171875,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 49,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Middle-aged, visible grey hair"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00615.jpg",
+    "gemini_annotated": "gemini\\person_00615.jpg",
+    "smoll_annotated": "smoll\\person_00615.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.7625,
+          0.4083333333333333,
+          0.9390625,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Graying hair, male features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00630.jpg",
+    "gemini_annotated": "gemini\\person_00630.jpg",
+    "smoll_annotated": "smoll\\person_00630.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.76015625,
+          0.43194444444444446,
+          0.940625,
+          0.9944444444444445
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Grey hair, facial features, short-sleeved shirt"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00659.jpg",
+    "gemini_annotated": "gemini\\person_00659.jpg",
+    "smoll_annotated": "smoll\\person_00659.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.7640625,
+          0.55,
+          0.92109375,
+          0.9847222222222223
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 54,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "graying hair, visible wrinkles, masculine features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.2796875,
+          0.3972222222222222,
+          0.4078125,
+          0.9611111111111111
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 30,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": false,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Headscarf, modest layered clothing, adult build"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00714.jpg",
+    "gemini_annotated": "gemini\\person_00714.jpg",
+    "smoll_annotated": "smoll\\person_00714.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.4421875,
+          0.02361111111111111,
+          0.534375,
+          0.5027777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "male facial features, baldness, visible lines consistent with middle age"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.7640625,
+          0.6055555555555555,
+          0.93984375,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 58,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Grey hair, wrinkles, male facial features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.10078125,
+          0.4513888888888889,
+          0.4078125,
+          0.9888888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 22,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Young adult, smooth skin, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00726.jpg",
+    "gemini_annotated": "gemini\\person_00726.jpg",
+    "smoll_annotated": "smoll\\person_00726.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.3203125,
+          0.39305555555555555,
+          0.58359375,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 24,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Young adult, feminine features, headscarf, casual attire"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.45703125,
+          0.1486111111111111,
+          0.58671875,
+          0.6319444444444444
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 62,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Baldness, mustache, signs of aging"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.7609375,
+          0.4888888888888889,
+          0.93203125,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "grey hair, facial lines, male features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00732.jpg",
+    "gemini_annotated": "gemini\\person_00732.jpg",
+    "smoll_annotated": "smoll\\person_00732.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.38359375,
+          0.2152777777777778,
+          0.5546875,
+          0.9666666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 22,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "young adult, slender build, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.76171875,
+          0.4847222222222222,
+          0.925,
+          0.9888888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Grey hair, facial lines; male facial features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00750.jpg",
+    "gemini_annotated": "gemini\\person_00750.jpg",
+    "smoll_annotated": "smoll\\person_00750.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.53671875,
+          0.21388888888888888,
+          0.73671875,
+          0.9388888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": 40,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult female, facial features, skin texture."
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.378125,
+          0.16944444444444445,
+          0.5453125,
+          0.9888888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": 38,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult female facial features, mature appearance"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.76015625,
+          0.4388888888888889,
+          0.91875,
+          0.9958333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 58,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "grey hair, facial features, hand wrinkles"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00822.jpg",
+    "gemini_annotated": "gemini\\person_00822.jpg",
+    "smoll_annotated": "smoll\\person_00822.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.46171875,
+          0.2638888888888889,
+          0.6625,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": 40,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult female, no significant signs of aging beyond late 30s/early 40s"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.32734375,
+          0.5138888888888888,
+          0.48125,
+          0.9944444444444445
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "5 to 12",
+          "exact_age": 9,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "child's facial features, braided hair, light dress"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "0 to 5",
+          "exact_age": "0",
+          "attributes": {
+            "glasses": "false",
+            "cap": "false",
+            "headscarf": "false",
+            "mask": "false",
+            "hood": "false",
+            "occlusion": "false",
+            "facing_camera": "true"
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00858.jpg",
+    "gemini_annotated": "gemini\\person_00858.jpg",
+    "smoll_annotated": "smoll\\person_00858.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.4109375,
+          0.10833333333333334,
+          0.58359375,
+          0.8
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 52,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Male, mature facial features, receding hairline"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00868.jpg",
+    "gemini_annotated": "gemini\\person_00868.jpg",
+    "smoll_annotated": "smoll\\person_00868.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.38203125,
+          0.16527777777777777,
+          0.534375,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 30,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult feminine features, no visible signs of youth or advanced age; light clothing with sandals."
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00908.jpg",
+    "gemini_annotated": "gemini\\person_00908.jpg",
+    "smoll_annotated": "smoll\\person_00908.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.41015625,
+          0.02638888888888889,
+          0.52109375,
+          0.5986111111111111
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Male, graying hair, facial lines"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00929.jpg",
+    "gemini_annotated": "gemini\\person_00929.jpg",
+    "smoll_annotated": "smoll\\person_00929.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.2703125,
+          0.3541666666666667,
+          0.465625,
+          0.9902777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 35,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Female due to headscarf and attire, adult based on build and posture."
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00932.jpg",
+    "gemini_annotated": "gemini\\person_00932.jpg",
+    "smoll_annotated": "smoll\\person_00932.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.4890625,
+          0.1875,
+          0.64609375,
+          0.8125
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 32,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult female, mature facial features, no visible aging signs."
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.3546875,
+          0.2875,
+          0.52109375,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 30,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": false,
+            "season_clothing": "winter"
+          },
+          "reasoning": "Adult female, traditional full-coverage attire"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00966.jpg",
+    "gemini_annotated": "gemini\\person_00966.jpg",
+    "smoll_annotated": "smoll\\person_00966.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.43125,
+          0.19444444444444445,
+          0.5609375,
+          0.8291666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "58 to 68",
+          "exact_age": 62,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Wrinkles, thinning gray hair, male facial features"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "68+",
+          "exact_age": "68",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00981.jpg",
+    "gemini_annotated": "gemini\\person_00981.jpg",
+    "smoll_annotated": "smoll\\person_00981.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.47109375,
+          0.2111111111111111,
+          0.65234375,
+          0.9277777777777778
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "58 to 68",
+          "exact_age": 60,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Female facial features, visible wrinkles, mature appearance"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "68+",
+          "exact_age": "68",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.34140625,
+          0.16666666666666666,
+          0.46484375,
+          0.7333333333333333
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "58 to 68",
+          "exact_age": 62,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": true,
+            "mask": false,
+            "hood": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Female facial features, visible wrinkles, mature appearance"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "68+",
+          "exact_age": "68",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.44375,
+          0.09861111111111111,
+          0.5546875,
+          0.6347222222222222
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "48 to 58",
+          "exact_age": 50,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": true,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Mature facial features, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "68+",
+          "exact_age": "68",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00984.jpg",
+    "gemini_annotated": "gemini\\person_00984.jpg",
+    "smoll_annotated": "smoll\\person_00984.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.3828125,
+          0.5402777777777777,
+          0.675,
+          0.9916666666666667
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "48 to 58",
+          "exact_age": 48,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Mature facial features, headscarf"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.215625,
+          0.55,
+          0.40703125,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "48 to 58",
+          "exact_age": 55,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Female facial features, visible wrinkles"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "68+",
+          "exact_age": "68",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "winter"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_00995.jpg",
+    "gemini_annotated": "gemini\\person_00995.jpg",
+    "smoll_annotated": "smoll\\person_00995.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.41171875,
+          0.034722222222222224,
+          0.52421875,
+          0.6138888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "28 to 38",
+          "exact_age": 35,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult male, facial hair, balding, no strong aging signs."
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "38 to 48",
+          "exact_age": "38",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_01024.jpg",
+    "gemini_annotated": "gemini\\person_01024.jpg",
+    "smoll_annotated": "smoll\\person_01024.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.39375,
+          0.37222222222222223,
+          0.66796875,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "male",
+          "age_group": "18 to 28",
+          "exact_age": 20,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Youthful male features, smooth skin, short hair."
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_01056.jpg",
+    "gemini_annotated": "gemini\\person_01056.jpg",
+    "smoll_annotated": "smoll\\person_01056.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.0625,
+          0.5736111111111111,
+          0.3109375,
+          0.9986111111111111
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 32,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult female, clear skin, youthful appearance"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_01062.jpg",
+    "gemini_annotated": "gemini\\person_01062.jpg",
+    "smoll_annotated": "smoll\\person_01062.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.434375,
+          0.3263888888888889,
+          0.553125,
+          0.9166666666666666
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "13 to 18",
+          "exact_age": 13,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Feminine features, pre-adolescent facial structure"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "13 to 18",
+          "exact_age": "15",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.09921875,
+          0.5652777777777778,
+          0.315625,
+          0.9972222222222222
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 34,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "long dark hair, feminine features, smooth skin"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 2,
+        "bbox": [
+          0.2359375,
+          0.4777777777777778,
+          0.32734375,
+          0.9013888888888889
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 33,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "long dark hair; no face visible"
+        },
+        "SmollVLM": {
+          "gender": "male",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_01074.jpg",
+    "gemini_annotated": "gemini\\person_01074.jpg",
+    "smoll_annotated": "smoll\\person_01074.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.08515625,
+          0.5166666666666667,
+          0.32734375,
+          0.9944444444444445
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 32,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": false,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Feminine hair and build, clear skin"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      },
+      {
+        "person_index": 1,
+        "bbox": [
+          0.42109375,
+          0.2222222222222222,
+          0.603125,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": 27,
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "hood": false,
+            "headscarf": true,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Young adult, feminine features, headscarf, smooth skin"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": true,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": false
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  },
+  {
+    "image_file": "person_01156.jpg",
+    "gemini_annotated": "gemini\\person_01156.jpg",
+    "smoll_annotated": "smoll\\person_01156.jpg",
+    "persons": [
+      {
+        "person_index": 0,
+        "bbox": [
+          0.08828125,
+          0.5166666666666667,
+          0.35,
+          0.9930555555555556
+        ],
+        "GeminiVLM": {
+          "gender": "female",
+          "age_group": "28 to 38",
+          "exact_age": 30,
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "hood": false,
+            "headscarf": false,
+            "mask": false,
+            "occlusion": false,
+            "facing_camera": true,
+            "season_clothing": "summer"
+          },
+          "reasoning": "Adult features, long dark hair"
+        },
+        "SmollVLM": {
+          "gender": "female",
+          "age_group": "18 to 28",
+          "exact_age": "28",
+          "attributes": {
+            "glasses": false,
+            "cap": false,
+            "headscarf": false,
+            "mask": false,
+            "hood": false,
+            "occlusion": false,
+            "facing_camera": true
+          },
+          "season_clothing": "summer"
+        }
+      }
+    ]
+  }
+]

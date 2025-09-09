@@ -1,0 +1,122 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.47109375,
+      0.2111111111111111,
+      0.65234375,
+      0.9277777777777778
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "58 to 68",
+      "exact_age": 60,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": true,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Female facial features, visible wrinkles, mature appearance"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "68+",
+      "exact_age": "68",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "winter"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.34140625,
+      0.16666666666666666,
+      0.46484375,
+      0.7333333333333333
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "58 to 68",
+      "exact_age": 62,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": true,
+        "mask": false,
+        "hood": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Female facial features, visible wrinkles, mature appearance"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "68+",
+      "exact_age": "68",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "winter"
+    }
+  },
+  {
+    "person_index": 2,
+    "bbox": [
+      0.44375,
+      0.09861111111111111,
+      0.5546875,
+      0.6347222222222222
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "48 to 58",
+      "exact_age": 50,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": true,
+        "mask": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Mature facial features, headscarf"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "68+",
+      "exact_age": "68",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "winter"
+    }
+  }
+]

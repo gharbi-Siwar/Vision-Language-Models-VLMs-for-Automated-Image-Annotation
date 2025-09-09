@@ -1,0 +1,42 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.41171875,
+      0.034722222222222224,
+      0.52421875,
+      0.6138888888888889
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "28 to 38",
+      "exact_age": 35,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Adult male, facial hair, balding, no strong aging signs."
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

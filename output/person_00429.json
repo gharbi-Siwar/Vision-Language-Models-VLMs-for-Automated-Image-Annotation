@@ -1,0 +1,82 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.75234375,
+      0.47638888888888886,
+      0.93828125,
+      0.9930555555555556
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 52,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Graying hair, facial wrinkles"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.66875,
+      0.25277777777777777,
+      0.9234375,
+      0.9430555555555555
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "58 to 68",
+      "exact_age": 62,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Grey hair, facial wrinkles, older appearance"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

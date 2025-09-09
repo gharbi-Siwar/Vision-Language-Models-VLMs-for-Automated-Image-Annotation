@@ -1,0 +1,122 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.53046875,
+      0.45555555555555555,
+      0.7625,
+      0.9916666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "58 to 68",
+      "exact_age": 60,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": false,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Baldness, male physical features, skin texture."
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.240625,
+      0.5416666666666666,
+      0.51328125,
+      0.9916666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": 25,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Youthful facial features, long hair, smooth skin"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 2,
+    "bbox": [
+      0.7578125,
+      0.47638888888888886,
+      0.9109375,
+      0.9888888888888889
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 48,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "graying hair, mature facial features"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

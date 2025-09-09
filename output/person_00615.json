@@ -1,0 +1,42 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.7625,
+      0.4083333333333333,
+      0.9390625,
+      0.9916666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 55,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Graying hair, male features"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

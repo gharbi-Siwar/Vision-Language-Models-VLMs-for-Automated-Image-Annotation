@@ -1,0 +1,82 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.496875,
+      0.41388888888888886,
+      0.80078125,
+      0.9930555555555556
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "58 to 68",
+      "exact_age": 58,
+      "attributes": {
+        "glasses": true,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "winter"
+      },
+      "reasoning": "Balding, grey beard, skin texture"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": true,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.7625,
+      0.5847222222222223,
+      0.95625,
+      0.9847222222222223
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "58 to 68",
+      "exact_age": 60,
+      "attributes": {
+        "glasses": true,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "receding grey hair, visible arm wrinkles, male features"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "winter"
+    }
+  }
+]

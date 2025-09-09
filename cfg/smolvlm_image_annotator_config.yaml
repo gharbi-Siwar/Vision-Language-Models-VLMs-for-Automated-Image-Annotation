@@ -1,0 +1,34 @@
+
+images_folder: "inputs"
+box_color: [0, 255, 0]
+font: "cv2.FONT_HERSHEY_SIMPLEX"
+vlm_model_path: "HuggingFaceTB/SmolVLM2-2.2B-Instruct"
+prompt_template: |
+  You are an expert image analyst.
+
+  Analyze the cropped image of a person (use the head region if the full body is not visible or occluded), and classify the following information:
+
+  - gender: either "male" or "female"
+  - age_group: choose one from ["0 to 5", "5 to 12", "13 to 18", "18 to 28", "28 to 38", "38 to 48", "48 to 58", "58 to 68", "68+"]
+  - exact_age: estimated age as an integer
+  - attributes:
+      - glasses: true or false
+      - cap: true or false
+      - headscarf: true only if a scarf or a hijab is clearly worn around the head or covering the hair
+      - mask: true or false
+      - hood: true only if the hood is worn on the head
+      - occlusion: true if part of the person is obscured by another person
+      - facing_camera: false only if the person's back is completely turned to the camera
+  - season_clothing: "summer" or "winter" based on visible clothing, MUST be provided and cannot be left empty or unknown
+  
+
+
+  ⚠️ Respond ONLY with a valid and complete raw JSON object exactly matching these fields.
+  ⚠️ Do NOT add any text before or after the JSON.
+  ⚠️ Do NOT repeat the prompt or add explanations.
+  ⚠️ Stop generation immediately after closing the JSON object.
+  ⚠️ The JSON object must include all fields listed above, especially "reasoning".
+   Make sure the JSON ends with a closing brace }.
+
+
+device: "cpu"

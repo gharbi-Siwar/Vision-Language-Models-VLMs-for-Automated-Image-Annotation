@@ -1,0 +1,32 @@
+2025-08-30 15:00:56,417 [INFO] ==== Pipeline Start ====
+2025-08-30 15:00:57,563 [INFO] YOLO utilities imported successfully
+2025-08-30 15:01:14,403 [INFO] Loaded model: GeminiVLM
+2025-08-30 15:01:19,727 [INFO] Loaded model: SmollVLM
+2025-08-30 15:01:19,920 [INFO] 40 images ready for processing
+2025-08-30 15:01:19,921 [INFO] Gemini last completed crop index: -1
+2025-08-30 15:01:19,948 [INFO] YOLO model loaded from cfg/yolov8n.pt
+2025-08-30 15:01:19,948 [INFO] Running YOLO detection on all images
+2025-08-30 15:01:21,782 [INFO] Total person crops extracted: 83
+2025-08-30 15:02:02,904 [INFO] GeminiVLM batch 0 processed
+2025-08-30 15:08:21,844 [INFO] SmollVLM batch 0 processed
+2025-08-30 15:09:00,392 [INFO] GeminiVLM batch 8 processed
+2025-08-30 15:16:12,899 [INFO] SmollVLM batch 8 processed
+2025-08-30 15:17:06,255 [INFO] GeminiVLM batch 16 processed
+2025-08-30 15:24:58,323 [INFO] SmollVLM batch 16 processed
+2025-08-30 15:25:38,423 [INFO] GeminiVLM batch 24 processed
+2025-08-30 15:34:43,975 [INFO] SmollVLM batch 24 processed
+2025-08-30 15:35:29,421 [INFO] GeminiVLM batch 32 processed
+2025-08-30 15:47:32,046 [INFO] SmollVLM batch 32 processed
+2025-08-30 15:48:12,035 [INFO] GeminiVLM batch 40 processed
+2025-08-30 16:01:45,926 [INFO] SmollVLM batch 40 processed
+2025-08-30 16:02:29,647 [INFO] GeminiVLM batch 48 processed
+2025-08-30 16:16:24,133 [INFO] SmollVLM batch 48 processed
+2025-08-30 16:17:02,947 [INFO] GeminiVLM batch 56 processed
+2025-08-30 16:30:09,300 [INFO] SmollVLM batch 56 processed
+2025-08-30 16:30:56,636 [INFO] GeminiVLM batch 64 processed
+2025-08-30 16:43:25,037 [INFO] SmollVLM batch 64 processed
+2025-08-30 16:44:08,279 [INFO] GeminiVLM batch 72 processed
+2025-08-30 16:58:41,170 [INFO] SmollVLM batch 72 processed
+2025-08-30 16:59:05,340 [INFO] GeminiVLM batch 80 processed
+2025-08-30 17:04:37,384 [INFO] SmollVLM batch 80 processed
+2025-08-30 17:04:38,245 [INFO] ==== Multi-Model Image Pipeline Completed ====

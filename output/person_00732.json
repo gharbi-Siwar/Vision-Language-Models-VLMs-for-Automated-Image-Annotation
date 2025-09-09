@@ -1,0 +1,82 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.38359375,
+      0.2152777777777778,
+      0.5546875,
+      0.9666666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": 22,
+      "attributes": {
+        "glasses": true,
+        "cap": false,
+        "hood": false,
+        "headscarf": true,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": false,
+        "season_clothing": "summer"
+      },
+      "reasoning": "young adult, slender build, headscarf"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.76171875,
+      0.4847222222222222,
+      0.925,
+      0.9888888888888889
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 48,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Grey hair, facial lines; male facial features"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

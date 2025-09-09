@@ -1,0 +1,14 @@
+default_fields:
+  gender: null
+  age_group: null
+  exact_age: null
+  attributes:
+    - glasses
+    - cap
+    - headscarf
+    - mask
+    - hood
+    - occlusion
+    - facing_camera
+  season_clothing: "unknown"
+  reasoning: "No reasoning provided"

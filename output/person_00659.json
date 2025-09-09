@@ -1,0 +1,82 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.7640625,
+      0.55,
+      0.92109375,
+      0.9847222222222223
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 54,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "graying hair, visible wrinkles, masculine features"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.2796875,
+      0.3972222222222222,
+      0.4078125,
+      0.9611111111111111
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "28 to 38",
+      "exact_age": 30,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": true,
+        "mask": false,
+        "occlusion": true,
+        "facing_camera": false,
+        "season_clothing": "winter"
+      },
+      "reasoning": "Headscarf, modest layered clothing, adult build"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

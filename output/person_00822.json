@@ -1,0 +1,82 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.46171875,
+      0.2638888888888889,
+      0.6625,
+      0.9902777777777778
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "38 to 48",
+      "exact_age": 40,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Adult female, no significant signs of aging beyond late 30s/early 40s"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.32734375,
+      0.5138888888888888,
+      0.48125,
+      0.9944444444444445
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "5 to 12",
+      "exact_age": 9,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "child's facial features, braided hair, light dress"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "0 to 5",
+      "exact_age": "0",
+      "attributes": {
+        "glasses": "false",
+        "cap": "false",
+        "headscarf": "false",
+        "mask": "false",
+        "hood": "false",
+        "occlusion": "false",
+        "facing_camera": "true"
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

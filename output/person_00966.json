@@ -1,0 +1,42 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.43125,
+      0.19444444444444445,
+      0.5609375,
+      0.8291666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "58 to 68",
+      "exact_age": 62,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Wrinkles, thinning gray hair, male facial features"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "68+",
+      "exact_age": "68",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "winter"
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.39375,
+      0.37222222222222223,
+      0.66796875,
+      0.9930555555555556
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "18 to 28",
+      "exact_age": 20,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Youthful male features, smooth skin, short hair."
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

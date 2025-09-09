@@ -1,0 +1,42 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.38203125,
+      0.16527777777777777,
+      0.534375,
+      0.9916666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "28 to 38",
+      "exact_age": 30,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": true,
+        "mask": false,
+        "hood": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Adult feminine features, no visible signs of youth or advanced age; light clothing with sandals."
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+torch
+transformers
+Pillow
+opencv-python-headless
+ultralytics
+pyyaml
+numpy
+tqdm
+google-generative-ai
+

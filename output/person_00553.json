@@ -1,0 +1,202 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.525,
+      0.475,
+      0.7765625,
+      0.9916666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 55,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "baldness, wrinkles, masculine build"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.7578125,
+      0.48333333333333334,
+      0.9078125,
+      0.9916666666666667
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "48 to 58",
+      "exact_age": 48,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": true,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "graying hair, facial lines, short-sleeved polo"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": "38",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 2,
+    "bbox": [
+      0.4015625,
+      0.19027777777777777,
+      0.53671875,
+      0.5208333333333334
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "0 to 5",
+      "exact_age": 4,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "young facial features, short hair, t-shirt and shorts"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "0 to 5",
+      "exact_age": "0",
+      "attributes": {
+        "glasses": "false",
+        "cap": "false",
+        "headscarf": "false",
+        "mask": "false",
+        "hood": "false",
+        "occlusion": "false",
+        "facing_camera": "true"
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 3,
+    "bbox": [
+      0.4421875,
+      0.19166666666666668,
+      0.53515625,
+      0.5208333333333334
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "0 to 5",
+      "exact_age": 4,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Young facial features, child's body"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "0 to 5",
+      "exact_age": "0",
+      "attributes": {
+        "glasses": "false",
+        "cap": "false",
+        "headscarf": "false",
+        "mask": "false",
+        "hood": "false",
+        "occlusion": "false",
+        "facing_camera": "true"
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 4,
+    "bbox": [
+      0.9375,
+      0.175,
+      0.99921875,
+      0.5625
+    ],
+    "GeminiVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": 45,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": false,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Male physique, short-sleeved polo shirt, adult build"
+    },
+    "SmollVLM": {
+      "gender": "male",
+      "age_group": "38 to 48",
+      "exact_age": 48,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "winter"
+    }
+  }
+]

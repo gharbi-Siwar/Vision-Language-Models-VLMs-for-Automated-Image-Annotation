@@ -1,0 +1,82 @@
+[
+  {
+    "person_index": 0,
+    "bbox": [
+      0.08515625,
+      0.5166666666666667,
+      0.32734375,
+      0.9944444444444445
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "28 to 38",
+      "exact_age": 32,
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "hood": false,
+        "headscarf": false,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": false,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Feminine hair and build, clear skin"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": false,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": true
+      },
+      "season_clothing": "summer"
+    }
+  },
+  {
+    "person_index": 1,
+    "bbox": [
+      0.42109375,
+      0.2222222222222222,
+      0.603125,
+      0.9930555555555556
+    ],
+    "GeminiVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": 27,
+      "attributes": {
+        "glasses": true,
+        "cap": false,
+        "hood": false,
+        "headscarf": true,
+        "mask": false,
+        "occlusion": false,
+        "facing_camera": true,
+        "season_clothing": "summer"
+      },
+      "reasoning": "Young adult, feminine features, headscarf, smooth skin"
+    },
+    "SmollVLM": {
+      "gender": "female",
+      "age_group": "18 to 28",
+      "exact_age": "28",
+      "attributes": {
+        "glasses": true,
+        "cap": false,
+        "headscarf": false,
+        "mask": false,
+        "hood": false,
+        "occlusion": false,
+        "facing_camera": false
+      },
+      "season_clothing": "summer"
+    }
+  }
+]

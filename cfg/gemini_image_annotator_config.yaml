@@ -1,0 +1,46 @@
+image_folder: "inputs"           
+ 
+
+vlm_model_path: "models/gemini-2.5-flash"  
+google_api_key: "AIzaSyDFaCY80mWYuhrFKxF4W25QMIt7HUA9D6Y"    
+
+box_color: [0, 255, 0]            
+prompt_template: |
+  You are an expert image analyst.
+
+  From the cropped image of a person (use the head if occluded), classify the following information:
+
+  - gender: "male" or "female"
+  - age_group: one of ["0 to 5", "5 to 12", "13 to 18", "18 to 28", "28 to 38", "38 to 48", "48 to 58", "58 to 68", "68+"]
+  - exact_age: estimated age as an integer
+  - attributes:
+      - glasses: true or false
+      - cap: true or false
+      - headscarf: true or false
+      - mask: true or false
+      - hood: true only if the hood is worn on the head
+      - occlusion: true if there's occlusion between people
+      - facing_camera: false only if the person's back is entirely turned to the camera
+      - season_clothing: "summer" or "winter", based on clothing appearance
+  - reasoning: provide a short keyword or phrase justifying the age and gender classification
+
+   Respond ONLY with a raw JSON object, without any explanation or markdown. Ensure the JSON is syntactically correct.
+
+  Example format (do not include this as output, just follow the structure):
+
+  {
+    "gender": "string",
+    "age_group": "string",
+    "exact_age": integer,
+    "attributes": {
+      "glasses": boolean,
+      "cap": boolean,
+      "hood": boolean,
+      "headscarf": boolean,
+      "mask": boolean,
+      "occlusion": boolean,
+      "facing_camera": boolean,
+      "season_clothing": "string"
+    },
+    "reasoning": "string"
+  }
